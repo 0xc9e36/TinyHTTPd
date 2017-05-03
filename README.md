@@ -1,4 +1,4 @@
 # TinyHTTPd
 
 项目主页 : http://tinyhttpd.sourceforge.net/
-一个简单是C语言服务器,500多行代码 这里加上注释后的版本.
+一个简单的开源项目, 代码只有几百行, 阅读过后留下了注释.
